@@ -8,13 +8,13 @@ export const droneData = {
         {
             id: "civilian",
             name: "Research / Civilian",
-            price: "$250,000",
+            price: "₹250,000",
             features: ["Restricted Flight Params", "Standard Support", "1-Year Warranty"]
         },
         {
             id: "government",
             name: "Defense Contractor",
-            price: "$850,000",
+            price: "₹850,000",
             features: ["Full Weapon Systems", "Military Encryption", "Priority Support"]
         },
         {
