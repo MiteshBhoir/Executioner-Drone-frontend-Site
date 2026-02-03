@@ -29,38 +29,57 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
+
 Open your browser and navigate to:
 
+```
 http://localhost:3000
+```
+
 You can start editing the page by modifying:
 
+```ts
 app/page.tsx
+```
+
 The page will automatically update as you save changes.
 
-📁 Project Features
-Modern UI built with Next.js App Router
+---
 
-Optimized fonts using next/font
+## 📁 Project Features
 
-Fully responsive frontend
+- Modern UI built with Next.js App Router
+- Optimized fonts using `next/font`
+- Fully responsive frontend
+- Hosted on Vercel for fast global delivery
 
-Hosted on Vercel for fast global delivery
+---
 
-📚 Learn More
+## 📚 Learn More
+
 To learn more about Next.js, check out the following resources:
 
-📘 Next.js Documentation
+- 📘 [Next.js Documentation](https://nextjs.org/docs)
+- 🧠 [Learn Next.js](https://nextjs.org/learn)
+- 💻 [Next.js GitHub Repository](https://github.com/vercel/next.js)
 
-🧠 Learn Next.js
+---
 
-💻 Next.js GitHub Repository
+## 🚢 Deployment
 
-🚢 Deployment
-The easiest way to deploy a Next.js app is using Vercel, the platform created by the Next.js team.
+The easiest way to deploy a Next.js app is using **Vercel**, the platform created by the Next.js team.
 
-For more details, visit:
+For more details, visit:  
 👉 https://nextjs.org/docs/app/building-your-application/deploying
 
-🤝 Feedback & Contributions
-Feedback and contributions are always welcome!
+---
+
+## 🤝 Feedback & Contributions
+
+Feedback and contributions are always welcome!  
 Feel free to fork the repository and submit a pull request.
+
+---
+
+⭐ If you like this project, don’t forget to give it a star!
